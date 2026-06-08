@@ -1,7 +1,3 @@
-以下是适合放在 GitHub 仓库的 README 描述：
-
----
-
 # CloudFlare DDNS for Koolshare Merlin
 
 [![Platform](https://img.shields.io/badge/platform-Merlin%20(Koolshare)-blue.svg)](https://koolshare.cn)
@@ -109,7 +105,3 @@ curl -s myip.ipip.net
 ## 📧 反馈与贡献
 
 如有问题请提交 Issue，欢迎 PR 贡献代码。
-
----
-
-如果还需要其他格式（如简短版、英文版），请告诉我。
