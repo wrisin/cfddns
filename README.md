@@ -1,7 +1,3 @@
-以下是包含完整署名和说明的 README.md 文件：
-
----
-
 # CloudFlare DDNS for Koolshare Merlin (增强修复版)
 
 [![Platform](https://img.shields.io/badge/platform-Merlin%20(Koolshare)-blue.svg)](https://koolshare.cn)
